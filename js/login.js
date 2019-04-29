@@ -35,6 +35,6 @@
   });
 
   function goToRegister(){
-    window.location.href = "file:///D:/Course%20work/Spring%202019/UED/Assignments/Final%20Project/DreamSpot/register.html?";
+    window.location.href = "https://gangadhar993.github.io/DreamSpot/register.html";
   }
 
