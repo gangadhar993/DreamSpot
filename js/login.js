@@ -26,10 +26,10 @@
   $('#myModal').on('hide.bs.modal', function (e) {
     var formsElements = document.getElementsByClassName('tab-pane fade show active text-align form-new');
     if(formsElements[0].id == "admin"){
-        window.location.href = "file:///D:/Course%20work/Spring%202019/UED/Assignments/Final%20Project/DreamSpot/admin.html?";
+        window.location.href = "https://gangadhar993.github.io/DreamSpot/admin.html";
     }
     else{
-        window.location.href = "file:///D:/Course%20work/Spring%202019/UED/Assignments/Final%20Project/DreamSpot/user.html?";
+        window.location.href = "https://gangadhar993.github.io/DreamSpot/user.html";
     }
     
   });

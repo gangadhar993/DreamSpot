@@ -20,7 +20,7 @@
       
     });
     $('#myModal').on('hidden.bs.modal', function (e) {
-      window.location.href = "file:///D:/Course%20work/Spring%202019/UED/Assignments/Final%20Project/DreamSpot/user.html?";
+      window.location.href = "https://gangadhar993.github.io/DreamSpot/user.html";
   
 });
   }, false);
